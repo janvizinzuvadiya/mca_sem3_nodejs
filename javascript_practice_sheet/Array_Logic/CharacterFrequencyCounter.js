@@ -15,5 +15,6 @@ for (let s =0 ; s<str.length ; s++)
         }
     }
     console.log(str[s] ,":", count);
+    console.log(words);
     count = 0;
 }

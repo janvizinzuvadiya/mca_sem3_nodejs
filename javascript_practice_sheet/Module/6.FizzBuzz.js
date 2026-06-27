@@ -1,4 +1,4 @@
-export function FizzBuzz()
+export default function FizzBuzz()
 {
     let str = "";
     for (let i = 1 ; i <= 100; i++)
