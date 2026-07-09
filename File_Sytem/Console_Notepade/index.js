@@ -80,8 +80,7 @@ function Main()
             case 0:
                 console.log("Exiting Program...!")
                 rl.close();
-                process.exit(0);
-        git     
+                process.exit(0);    
             default:
                 console.log("Invalid choice!")
                 Main();
